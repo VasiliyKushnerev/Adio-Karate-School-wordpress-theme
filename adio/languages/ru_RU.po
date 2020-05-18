@@ -1,0 +1,1405 @@
+# Copyright (C) 2017 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Adio 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2020-05-14 01:28+0300\n"
+"PO-Revision-Date: 2020-05-18 13:01+0300\n"
+"Last-Translator: \n"
+"Language-Team: Vasiliy\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;_x;_n:1,2;esc_attr__;"
+"esc_attr_e;_n_noop\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Эта страница не может быть найдена."
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Похоже, в этом месте ничего не нашли. Может быть, попробовать одну из ссылок "
+"ниже или поискать?"
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr "Наиболее Часто Используемые Категории"
+
+#: 404.php:47
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Попробуйте заглянуть в ежемесячные архивы. %1$s"
+
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Одна мысль о \"%1$s\";"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: functions.php:47
+msgid "Main menu"
+msgstr "Главное меню"
+
+#: functions.php:112
+msgid "Sidebar"
+msgstr "Боковая колонка"
+
+#: functions.php:114
+msgid "Add widgets here."
+msgstr "Добавьте виджеты."
+
+#: inc/config.php:13
+msgid "Homepage Options"
+msgstr "Опции Главной страницы"
+
+#: inc/config.php:21
+msgid "Enable Offer section"
+msgstr "Показать секцию \"Предложение\""
+
+#: inc/config.php:22
+msgid "Enable or disable the Offer section"
+msgstr "Показать или скрыть секцию \"Предложение\""
+
+#: inc/config.php:27 inc/config.php:37 inc/config.php:47 inc/config.php:57
+#: inc/config.php:67 inc/config.php:77 inc/config.php:87 inc/config.php:97
+msgid "Enable"
+msgstr "Показывать"
+
+#: inc/config.php:28 inc/config.php:38 inc/config.php:48 inc/config.php:58
+#: inc/config.php:68 inc/config.php:78 inc/config.php:88 inc/config.php:98
+msgid "Disable"
+msgstr "Скрыть"
+
+#: inc/config.php:31
+msgid "Enable Features section"
+msgstr "Показывать секцию \"Преимущества\""
+
+#: inc/config.php:32
+msgid "Enable or disable the Features section"
+msgstr "Показывать или скрыть секцию \"Преимущества\""
+
+#: inc/config.php:41
+msgid "Enable Price section"
+msgstr "Показать секцию \"Цены\""
+
+#: inc/config.php:42
+msgid "Enable or disable the Price section"
+msgstr "Показать или скрыть секцию \"Цены\""
+
+#: inc/config.php:51
+msgid "Enable Classes section"
+msgstr "Показать секцию \"Секции\""
+
+#: inc/config.php:52
+msgid "Enable or disable the Classes section"
+msgstr "Показать или скрыть секцию \"Секции\""
+
+#: inc/config.php:61
+msgid "Enable Trainers section"
+msgstr "Показать секцию \"Тренеры\""
+
+#: inc/config.php:62
+msgid "Enable or disable the Trainers section"
+msgstr "Показать или скрыть секцию \"Тренеры\""
+
+#: inc/config.php:71
+msgid "Enable Clients section"
+msgstr "Показать секцию \"Клиенты\""
+
+#: inc/config.php:72
+msgid "Enable or disable the Clients section"
+msgstr "Показать или скрыть секцию \"Клиенты\""
+
+#: inc/config.php:81
+msgid "Enable News section"
+msgstr "Показать секцию \"Новости\""
+
+#: inc/config.php:82
+msgid "Enable or disable the News section"
+msgstr "Показать или скрыть секцию \"Новости\""
+
+#: inc/config.php:91
+msgid "Enable Map section"
+msgstr "Показать секцию \"Карта\""
+
+#: inc/config.php:92
+msgid "Enable or disable the Map section"
+msgstr "Показать или скрыть секцию \"Карта\""
+
+#: inc/config.php:101
+msgid "Philosophy title"
+msgstr "Заголовок секции \"Философия\""
+
+#: inc/config.php:102
+msgid "Type here the Philosophy title"
+msgstr "Введите заголовок секции \"Философия\""
+
+#: inc/config.php:107
+msgid "Philosophy subtitle"
+msgstr "Подзаголово секции \"Философия\""
+
+#: inc/config.php:108
+msgid "Type here the Philosophy subtitle"
+msgstr "Введите подзаголовок секции \"Философия\""
+
+#: inc/config.php:113
+msgid "Philosophy description"
+msgstr "Описание секции \"Философия\""
+
+#: inc/config.php:114
+msgid "Type here the Philosophy description"
+msgstr "Введите описание секции \"Философия\""
+
+#: inc/config.php:119
+msgid "Philosophy small title-1"
+msgstr "Малое название - 1 секции \"Философия\""
+
+#: inc/config.php:120
+msgid "Type here the Philosophy small title-1"
+msgstr "Введите малое название - 1 секции \"Философия\""
+
+#: inc/config.php:125
+msgid "Philosophy small description-1"
+msgstr "Секция \"Философия\" небольшое описание-1"
+
+#: inc/config.php:126
+msgid "Type here the Philosophy small description-1"
+msgstr "Введите небольшое описание - 1 секции \"Философия\""
+
+#: inc/config.php:131
+msgid "Philosophy small title-2"
+msgstr "Малое название - 2 секции \"Философия\""
+
+#: inc/config.php:132
+msgid "Type here the Philosophy small title-2"
+msgstr "Введите малое название - 2 секции \"Философия\""
+
+#: inc/config.php:137
+msgid "Philosophy small description-2"
+msgstr "Небольшое описание - 2 секции \"Философия\""
+
+#: inc/config.php:138
+msgid "Type here the Philosophy small description-2"
+msgstr "Введите небольшое описание - 2 секции \"Философия\""
+
+#: inc/config.php:143
+msgid "Philosophy small title-3"
+msgstr "Малое название - 3 секции \"Философия\""
+
+#: inc/config.php:144
+msgid "Type here the Philosophy small title-3"
+msgstr "Введите малый заголовок - 3 секции \"Философия\""
+
+#: inc/config.php:149
+msgid "Philosophy small description-3"
+msgstr "Небольшое описание - 3 секции \"Философия\""
+
+#: inc/config.php:150
+msgid "Type here the Philosophy small description-3"
+msgstr "Введите небольшое описание - 3 секции \"Философия\""
+
+#: inc/config.php:155
+msgid "Philosophy image"
+msgstr "Изображение секции \"Философия\""
+
+#: inc/config.php:156
+msgid "Upload here the Philosophy image. Recommended size: 507-467px"
+msgstr ""
+"Загрузите изображение секции \"Философия\". Рекомендуемый размер: 507-467px"
+
+#: inc/config.php:161
+msgid "Offer image"
+msgstr "Изображение секции \"Предложение\""
+
+#: inc/config.php:162
+msgid "Upload here the Offer image. Recommended size: 535-480px"
+msgstr ""
+"Введите изображение секции \"Предложение\". Рекомендуемый размер: 535-480px"
+
+#: inc/config.php:167
+msgid "Offer overtitle"
+msgstr "Надзаголовок секции \"Предложение\""
+
+#: inc/config.php:168
+msgid "Type here the Offer overtitle"
+msgstr "Введите надзаголовок секции \"Предложение\""
+
+#: inc/config.php:173
+msgid "Offer title"
+msgstr "Заголовок секции \"Предложение\""
+
+#: inc/config.php:174
+msgid "Type here the Offer title"
+msgstr "Введите заголовок секции \"Предложение\""
+
+#: inc/config.php:179
+msgid "Offer subtitle"
+msgstr "Подзаголовок секции \"Предложение\""
+
+#: inc/config.php:180
+msgid "Type here the Offer subrtitle"
+msgstr "Введите подзаголовок секции \"Предложение\""
+
+#: inc/config.php:185
+msgid "Offer description"
+msgstr "Описание секции \"Предложение\""
+
+#: inc/config.php:186
+msgid "Type here the Offer description"
+msgstr "Введите описание секции \"Предложение\""
+
+#: inc/config.php:191
+msgid "Offer button title"
+msgstr "Название кнопки секции \"Предложение\""
+
+#: inc/config.php:192
+msgid "Type here the Offer button title"
+msgstr "Введите название кнопки секции \"Предложение\""
+
+#: inc/config.php:197
+msgid "Features title"
+msgstr "Заголовок секции \"Преимущества\""
+
+#: inc/config.php:198
+msgid "Type here the Features title"
+msgstr "Введите заголовок секции \"Преимущества\""
+
+#: inc/config.php:203
+msgid "Features background"
+msgstr "Иконка секции \"Преимущества\""
+
+#: inc/config.php:204
+msgid "Upload here the Features background image. Recommended size: 380-614px"
+msgstr ""
+"Загрузите фоновое изображение секции \"Отзывы\". Рекомендуемый размер: 1880 "
+"- 955 px"
+
+#: inc/config.php:209
+msgid "Classes title"
+msgstr "Заголовок секции \"Секции\""
+
+#: inc/config.php:210
+msgid "Type here the Classes title"
+msgstr "Введите заголовок секции \"Секции\""
+
+#: inc/config.php:215
+msgid "Trainers title"
+msgstr "Заголовок секции \"Тренеры\""
+
+#: inc/config.php:216
+msgid "Type here the Trainers title"
+msgstr "Введите заголовок секции \"Тренеры\""
+
+#: inc/config.php:221
+msgid "Client title"
+msgstr "Имя клиента"
+
+#: inc/config.php:222
+msgid "Type here the Client title"
+msgstr "Введите имя клиента"
+
+#: inc/config.php:227
+msgid "Testimonial background image"
+msgstr "Фоновое изображение секции \"Отзывы\""
+
+#: inc/config.php:228
+msgid ""
+"Upload here the Testimonial background image. Recommended size: 1880-955px"
+msgstr ""
+"Загрузите фоновое изображение секции \"Отзывы\". Рекомендуемый размер: 1880 "
+"- 955 px"
+
+#: inc/config.php:233
+msgid "News title"
+msgstr "Заголовок секции Новости"
+
+#: inc/config.php:234
+msgid "Type here the News title"
+msgstr "Введите заголовок секции Новости"
+
+#: inc/config.php:240
+msgid "Iframe Map"
+msgstr "Iframe секции \"Карта\""
+
+#: inc/config.php:241
+msgid "Type here the Map Iframe.Width=\"100%\", height=\"800\""
+msgstr "Введите Iframe . Ширина =\"100%\", Высота=\"800\""
+
+#: inc/config.php:250 inc/config.php:279
+msgid "Features Options"
+msgstr "Опции секции \"Преимущества\""
+
+#: inc/config.php:257 inc/config.php:286
+msgid "Features icon"
+msgstr "Иконка секции \"Преимущества\""
+
+#: inc/config.php:258 inc/config.php:287
+msgid "Type here the fontawesome icon name"
+msgstr "Введите название fontawesome иконки"
+
+#: inc/config.php:263 inc/config.php:292
+msgid "Features subtitle"
+msgstr "Подзаголовок секции \"Преимущества\""
+
+#: inc/config.php:264 inc/config.php:293
+msgid "Type here the Features subtitle"
+msgstr "Введите подзаголовок секции \"Преимущества\""
+
+#: inc/config.php:269 inc/config.php:298
+msgid "Features description"
+msgstr "Описание секции \"Преимущества\""
+
+#: inc/config.php:270 inc/config.php:299
+msgid "Type here the Features description"
+msgstr "Введите описание секции \"Преимущества\""
+
+#: inc/config.php:308
+msgid "Price Options"
+msgstr "Опции секции \"Цена\""
+
+#: inc/config.php:315
+msgid "Price title"
+msgstr "Заголовок секции \"Цена\""
+
+#: inc/config.php:316
+msgid "Type here the Price titile"
+msgstr "Введите заголовок секции \"Цена\""
+
+#: inc/config.php:321
+msgid "Price value"
+msgstr "Значение цены"
+
+#: inc/config.php:322
+msgid "Type here the Price value"
+msgstr "Введите цену"
+
+#: inc/config.php:327
+msgid "Price description"
+msgstr "Описание цены"
+
+#: inc/config.php:328
+msgid "Type here the Price description"
+msgstr "Введите описание цены"
+
+#: inc/config.php:333
+msgid "Price button title"
+msgstr "Заголовок кнопки секции \"Цена\""
+
+#: inc/config.php:334
+msgid "Type here the Price button title"
+msgstr "Введите заголовок кнопки секции \"Цена\""
+
+#: inc/config.php:343
+msgid "Classes Options"
+msgstr "Опции секции \"Секции\""
+
+#: inc/config.php:350
+msgid "Classes image"
+msgstr "Изображение для Секций"
+
+#: inc/config.php:351
+msgid "Upload here the Classes image. Recommended size: 355-487px"
+msgstr "Загрузите изображение для Секций. Рекомендуемый размер: 355-487px"
+
+#: inc/config.php:356
+msgid "Classes subtitle"
+msgstr "Подзаголовок секции \"Секции\""
+
+#: inc/config.php:357
+msgid "Type here the Classes subtitle"
+msgstr "Введите подзаголовок секции \"Секции\""
+
+#: inc/config.php:362
+msgid "Classes description"
+msgstr "Описание Секции"
+
+#: inc/config.php:363
+msgid "Type here the Classes description"
+msgstr "Введите описание Секции"
+
+#: inc/config.php:372
+msgid "Trainers Options"
+msgstr "Опции секции \"Тренеры\""
+
+#: inc/config.php:379
+msgid "Trainers image"
+msgstr "Изображение тренера"
+
+#: inc/config.php:380
+msgid "Upload here the Trainers image. Recommended size: 277-472px"
+msgstr "Загрузите изображение тренера. Рекомендованный размер: 277-472 px"
+
+#: inc/config.php:385
+msgid "Trainer header"
+msgstr "Имя тренера"
+
+#: inc/config.php:386
+msgid "Type here the Trainer header"
+msgstr "Введите имя Тренера"
+
+#: inc/config.php:391
+msgid "Trainer subtitle"
+msgstr "Категория Тренера"
+
+#: inc/config.php:392
+msgid "Type here the Trainer subtitle"
+msgstr "Введите подзаголовок Тренера"
+
+#: inc/config.php:397
+msgid "Trainer description"
+msgstr "Описание Тренера"
+
+#: inc/config.php:398
+msgid "Type here the Trainer description"
+msgstr "Введите описание Тренера"
+
+#: inc/config.php:403
+msgid "Facebook link Profile"
+msgstr "Ссылка на Фейсбук"
+
+#: inc/config.php:404 inc/config.php:410 inc/config.php:416
+msgid "Type here the Trainer profile link"
+msgstr "Введите социальный профиль Тренера"
+
+#: inc/config.php:409
+msgid "Twitter link Profile"
+msgstr "Ссылка на Твиттер"
+
+#: inc/config.php:415
+msgid "Pinterest link Profile"
+msgstr "Ссылка на Пинтерест"
+
+#: inc/config.php:425
+msgid "Testimonials Options"
+msgstr "Опции Отзывов"
+
+#: inc/config.php:432
+msgid "Client image"
+msgstr "Изображение клиента"
+
+#: inc/config.php:433
+msgid "Upload here the Client image. Recommended size: 157-157px"
+msgstr "Загрузите изображение клиента. Рекомендованный размер: 157-157px"
+
+#: inc/config.php:438
+msgid "Client name"
+msgstr "Имя клиента"
+
+#: inc/config.php:439
+msgid "Type here the Client name"
+msgstr "Введите имя Клиента"
+
+#: inc/config.php:444
+msgid "Testimonials description"
+msgstr "Отзыв"
+
+#: inc/config.php:445
+msgid "Type here the Testimonials description"
+msgstr "Введите отзыв"
+
+#: inc/config.php:463
+msgid "Features Left"
+msgstr "Преимущества слева"
+
+#: inc/config.php:464
+msgid "Feature Left"
+msgstr "Преимущество слева"
+
+#: inc/config.php:478
+msgid "Features Right"
+msgstr "Преимущества справа"
+
+#: inc/config.php:479
+msgid "Feature Right"
+msgstr "Преимущество справа"
+
+#: inc/config.php:493
+msgid "Prices"
+msgstr "Цены"
+
+#: inc/config.php:494
+msgid "Price"
+msgstr "Цена"
+
+#: inc/config.php:508
+msgid "Classes"
+msgstr "Секции"
+
+#: inc/config.php:509
+msgid "Class"
+msgstr "Секция"
+
+#: inc/config.php:524
+msgid "Trainers"
+msgstr "Тренеры"
+
+#: inc/config.php:525
+msgid "Trainer"
+msgstr "Тренер"
+
+#: inc/config.php:540
+msgid "Testimonials"
+msgstr "Отзывы"
+
+#: inc/config.php:541
+msgid "Testimonial"
+msgstr "Отзыв"
+
+#: inc/redux-options.php:76
+msgid "ADIO Options"
+msgstr "Опции темы \"ADIO\""
+
+#: inc/redux-options.php:77
+msgid "Theme Options for ADIO"
+msgstr "Опции темы для ADIO"
+
+#: inc/redux-options.php:189
+msgid "Header Options"
+msgstr "Опции Header"
+
+#: inc/redux-options.php:191
+msgid "Data to be display in Header"
+msgstr "Данные для отображения в заголовке"
+
+#: inc/redux-options.php:196
+msgid "Logo Data"
+msgstr "Данные по Логотипу"
+
+#: inc/redux-options.php:197
+msgid "Upload the logo and specify the slogan"
+msgstr "Загрузите логотип и укажите слоган"
+
+#: inc/redux-options.php:205
+msgid "Logo"
+msgstr "Логотип"
+
+#: inc/redux-options.php:206
+msgid "Upload here your logo"
+msgstr "Загрузите Логотип"
+
+#: inc/redux-options.php:207
+msgid "Recomended size: 73px * 108px"
+msgstr "Рекомендуемый размер: 73px*108px"
+
+#: inc/redux-options.php:213
+msgid "Slogan"
+msgstr "Слоган"
+
+#: inc/redux-options.php:214
+msgid "Type here your slogan"
+msgstr "Введите Ваш Слоган"
+
+#: inc/redux-options.php:215
+msgid "Your slogan"
+msgstr "Ваш Слоган"
+
+#: inc/redux-options.php:223
+msgid "Phone & E-mail info"
+msgstr "Информация телефон и E-mail"
+
+#: inc/redux-options.php:224
+msgid "Type here Phone and E-mail info"
+msgstr "Введите информацию по телефону и E-mail"
+
+#: inc/redux-options.php:233
+msgid "Phone info"
+msgstr "Телефон"
+
+#: inc/redux-options.php:234
+msgid "Type here your phone company"
+msgstr "Введите телефон компании"
+
+#: inc/redux-options.php:235
+msgid "Your phone company"
+msgstr "Телефон вашей компании"
+
+#: inc/redux-options.php:241
+msgid "Email info"
+msgstr "Электронный адрес"
+
+#: inc/redux-options.php:242
+msgid "Type here your email company"
+msgstr "Введите электронный адрес компании"
+
+#: inc/redux-options.php:243
+msgid "Your email company"
+msgstr "Электронный адрес компании"
+
+#: inc/redux-options.php:249
+msgid "Social Links (Header & Footer)"
+msgstr "Ссылки на социальный профиль (Header & Footer)"
+
+#: inc/redux-options.php:250
+msgid "Type here social links"
+msgstr "Введите ссылки на социальный сети"
+
+#: inc/redux-options.php:259
+msgid "Facebook Link"
+msgstr "Ссылка на Фейсбук"
+
+#: inc/redux-options.php:260 inc/redux-options.php:268
+#: inc/redux-options.php:276 inc/redux-options.php:284
+msgid "Type here your link"
+msgstr "Введите ссылку"
+
+#: inc/redux-options.php:261 inc/redux-options.php:269
+#: inc/redux-options.php:277 inc/redux-options.php:285
+msgid "Your Profile Link"
+msgstr "Ваш социальный профиль"
+
+#: inc/redux-options.php:267
+msgid "Twitter Link"
+msgstr "Ссылка на Твиттер"
+
+#: inc/redux-options.php:275
+msgid "Intagram Link"
+msgstr "Ссылка на Инстаграм"
+
+#: inc/redux-options.php:283
+msgid "Pinterest Link"
+msgstr "Ссылка на Пинтерест"
+
+#: inc/redux-options.php:291
+msgid "Headers"
+msgstr "Заголовки"
+
+#: inc/redux-options.php:292
+msgid "Enter the headers here"
+msgstr "Введите заголовки"
+
+#: inc/redux-options.php:300
+msgid "Background image"
+msgstr "Фоновое изображение"
+
+#: inc/redux-options.php:301
+msgid "Upload here your background image"
+msgstr "Загрузите фоновое изображение"
+
+#: inc/redux-options.php:302
+msgid "Recomended size: 1880px * 955px"
+msgstr "Рекомендуемый размер :1880px * 955px"
+
+#: inc/redux-options.php:308
+msgid "Header"
+msgstr "Заголовок"
+
+#: inc/redux-options.php:309
+msgid "Type here your header"
+msgstr "Введите заголовок"
+
+#: inc/redux-options.php:310
+msgid "Your header"
+msgstr "Заголовок"
+
+#: inc/redux-options.php:316
+msgid "Opening words"
+msgstr "Вступительные слова"
+
+#: inc/redux-options.php:317
+msgid "Type here your opening words"
+msgstr "Введите вступительные слова"
+
+#: inc/redux-options.php:318
+msgid "Your opening words"
+msgstr "Вступительные слова"
+
+#: inc/redux-options.php:324
+msgid "First Subtitle"
+msgstr "Первый подзаголовок"
+
+#: inc/redux-options.php:325
+msgid "Type here your first subtitle"
+msgstr "Введите первый подзаголовок"
+
+#: inc/redux-options.php:326
+msgid "Your first subtitle"
+msgstr "Первый подзаголовок"
+
+#: inc/redux-options.php:332
+msgid "Second Subtitle"
+msgstr "Второй подзаголовок"
+
+#: inc/redux-options.php:333
+msgid "Type here your second subtitle"
+msgstr "Введите второй подзаголовок"
+
+#: inc/redux-options.php:334
+msgid "Your second subtitle"
+msgstr "Второй подзаголовок"
+
+#: inc/redux-options.php:340
+msgid "Button title"
+msgstr "Название кнопки"
+
+#: inc/redux-options.php:341
+msgid "Type here your button title"
+msgstr "Введите заголовок кнопки"
+
+#: inc/redux-options.php:342
+msgid "Your button title"
+msgstr "Заголовок кнопки"
+
+#: inc/redux-options.php:348
+msgid "Switch On the Button"
+msgstr "Выключатель на кнопке"
+
+#: inc/redux-options.php:349
+msgid "Enable or disable the button"
+msgstr "Показать или скрыть кнопку"
+
+#: inc/redux-options.php:355
+msgid "Footer Options"
+msgstr "Опции Подвала"
+
+#: inc/redux-options.php:357
+msgid "Data to be display in Footer"
+msgstr "Данные для отображения в подвале"
+
+#: inc/redux-options.php:362
+msgid "First section"
+msgstr "Первая секция"
+
+#: inc/redux-options.php:363
+msgid "Upload data for the first section"
+msgstr "Загрузите данные для первой секции"
+
+#: inc/redux-options.php:371
+msgid "Footer logo"
+msgstr "Логотип Подвала"
+
+#: inc/redux-options.php:372
+msgid "Upload here your logo for footer"
+msgstr "Загрузите Логотип"
+
+#: inc/redux-options.php:373
+msgid "Recomended size: 103px * 104px"
+msgstr "Рекомендуемый размер :103px * 104px"
+
+#: inc/redux-options.php:379 inc/redux-options.php:406
+#: inc/redux-options.php:423 inc/redux-options.php:440
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/redux-options.php:380 inc/redux-options.php:407
+#: inc/redux-options.php:424 inc/redux-options.php:441
+msgid "Type here your title"
+msgstr "Введите заголовок"
+
+#: inc/redux-options.php:381 inc/redux-options.php:408
+#: inc/redux-options.php:425 inc/redux-options.php:442
+msgid "Your title"
+msgstr "Заголовок"
+
+#: inc/redux-options.php:387
+msgid "Description"
+msgstr "Описание"
+
+#: inc/redux-options.php:388
+msgid "Type here your description"
+msgstr "Введите описание"
+
+#: inc/redux-options.php:389
+msgid "Your description"
+msgstr "Ваше описание"
+
+#: inc/redux-options.php:397
+msgid "Second section"
+msgstr "Вторая секция"
+
+#: inc/redux-options.php:398
+msgid "Upload data for the second section"
+msgstr "Загрузите данные для второй секции"
+
+#: inc/redux-options.php:414
+msgid "Third section"
+msgstr "Третья секция"
+
+#: inc/redux-options.php:415
+msgid "Upload data for the third section"
+msgstr "Загрузите данные для третьей секции"
+
+#: inc/redux-options.php:431
+msgid "Fourth section"
+msgstr "Четвертая секция"
+
+#: inc/redux-options.php:432
+msgid "Upload data for the fourth section"
+msgstr "Загрузите данные для четвертой секции"
+
+#: inc/redux-options.php:447
+msgid "Phone-1"
+msgstr "Телефон - 1"
+
+#: inc/redux-options.php:448
+msgid "Type here your phone-1"
+msgstr "Введите телефон -1"
+
+#: inc/redux-options.php:449 inc/redux-options.php:456
+msgid "Your phone"
+msgstr "Ваш телефон"
+
+#: inc/redux-options.php:454
+msgid "Phone-2"
+msgstr "Телефон - 2"
+
+#: inc/redux-options.php:455
+msgid "Type here your phone-2"
+msgstr "Введите телефон -2"
+
+#: inc/redux-options.php:461
+msgid "Address"
+msgstr "Адрес"
+
+#: inc/redux-options.php:462
+msgid "Type here your address"
+msgstr "Введите Адрес"
+
+#: inc/redux-options.php:463
+msgid "Your addess"
+msgstr "Ваш Адрес"
+
+#: inc/redux-options.php:468
+msgid "Copyright info"
+msgstr "Информация об авторских правах"
+
+#: inc/redux-options.php:469
+msgid "Type here your copyright info"
+msgstr "Введите информацию об авторских правах"
+
+#: inc/redux-options.php:470
+msgid "Your copyright info"
+msgstr "Информация об авторских правах"
+
+#: inc/redux-options.php:476
+msgid "Color Selection"
+msgstr "Выбор цвета"
+
+#: inc/redux-options.php:478
+msgid "Data to be display of Color"
+msgstr "Данные для отображения цвета"
+
+#: inc/redux-options.php:482
+msgid "Color"
+msgstr "Цвет"
+
+#: inc/redux-options.php:484
+msgid "Here you can choose the site's color scheme."
+msgstr "Выберите цветовую схему сайта."
+
+#: inc/redux-options.php:494
+msgid "Site Background Color"
+msgstr "Фоновый цвет сайта"
+
+#: inc/redux-options.php:495
+msgid "Select the background color of the site."
+msgstr "Выберите цвет фона сайта."
+
+#: inc/redux-options.php:508
+msgid "Site Text Color"
+msgstr "Цвет текста"
+
+#: inc/redux-options.php:509
+msgid "Select the text color of the site."
+msgstr "Выберите цвет текста сайта."
+
+#: inc/redux-options.php:516
+msgid "Color of the side menu buttons."
+msgstr "Цвет боковых кнопок меню."
+
+#: inc/redux-options.php:517
+msgid "Select the color of the side menu buttons."
+msgstr "Выберите цвет боковых кнопок меню."
+
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:65
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Опубликовано в %1$s"
+
+#: inc/template-tags.php:72
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Помечено %1$s"
+
+#: inc/template-tags.php:82
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+"Оставьте комментарий<span class= \"screen-reader-text\" > на %s< / span>"
+
+#: inc/template-tags.php:99 template-parts/content-page.php:37
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Редактировать <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/tgm.php:334
+msgid "Install Required Plugins"
+msgstr "Установите необходимые плагины"
+
+#: inc/tgm.php:335
+msgid "Install Plugins"
+msgstr "Установка плагинов"
+
+#: inc/tgm.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: inc/tgm.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагина: %s"
+
+#: inc/tgm.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагина."
+
+#: inc/tgm.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr "Для этой темы требуется следующий плагин: %1$s."
+
+#: inc/tgm.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr "Эта тема рекомендует следующий плагин: %1$s."
+
+#: inc/tgm.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+"Этот плагин должен быть обновлен, чтобы быть совместимым с вашей темой: %1$s."
+
+#: inc/tgm.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr "Существует обновление, доступное для: %1$s."
+
+#: inc/tgm.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr "Следующий необходимый плагин в настоящее время неактивен:%1$s."
+
+#: inc/tgm.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr "Следующий рекомендуемый плагин в настоящее время неактивен: %1$s."
+
+#: inc/tgm.php:378
+msgid "Begin installing plugin"
+msgstr "Начните установку плагина"
+
+#: inc/tgm.php:383
+msgid "Begin updating plugin"
+msgstr "Начните обновление плагина"
+
+#: inc/tgm.php:388
+msgid "Begin activating plugin"
+msgstr "Начните активацию плагина"
+
+#: inc/tgm.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Возврат к установщику необходимых плагинов"
+
+#: inc/tgm.php:393 inc/tgm.php:920 inc/tgm.php:2626 inc/tgm.php:3673
+msgid "Return to the Dashboard"
+msgstr "Вернитесь в Консоль"
+
+#: inc/tgm.php:394 inc/tgm.php:3252
+msgid "Plugin activated successfully."
+msgstr "Плагин был успешно активирован."
+
+#: inc/tgm.php:395 inc/tgm.php:3045
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Следующий плагин был успешно активирован:"
+msgstr[1] "Следующие плагины были успешно активированы:"
+msgstr[2] "Следующие плагины были успешно активированы:"
+
+#: inc/tgm.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Никаких действий не предпринималось. Плагин %1$s уже был активен."
+
+#: inc/tgm.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Плагин не активирован. Для этой темы необходима более высокая версия %s. "
+"Пожалуйста, обновите плагин."
+
+#: inc/tgm.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины установлены и активированы успешно. %1$s"
+
+#: inc/tgm.php:402
+msgid "Dismiss this notice"
+msgstr "Закрыть это уведомление"
+
+#: inc/tgm.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Существует один или несколько обязательных или рекомендуемых плагинов для "
+"установки, обновления или активации."
+
+#: inc/tgm.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Пожалуйста, обратитесь за помощью к администратору этого сайта."
+
+#: inc/tgm.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Этот плагин должен быть обновлен, чтобы быть совместимым с вашей темой."
+
+#: inc/tgm.php:608
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#: inc/tgm.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr "Вместо этого установите переменную parent_slug config."
+
+#: inc/tgm.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Пакет удаленного плагина не содержит папки с нужным слагом и переименование "
+"не сработало."
+
+#: inc/tgm.php:1027 inc/tgm.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Обратитесь к поставщику плагинов и попросите их упаковать их плагин в "
+"соответствии с рекомендациями WordPress."
+
+#: inc/tgm.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Пакет удаленных плагинов состоит из нескольких файлов, но файлы не упакованы "
+"в папку."
+
+#: inc/tgm.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm.php:2366
+msgid "Required"
+msgstr "Обязательный"
+
+#: inc/tgm.php:2369
+msgid "Recommended"
+msgstr "Рекомендуемый"
+
+#: inc/tgm.php:2385
+msgid "WordPress Repository"
+msgstr "Репозиторий WordPress"
+
+#: inc/tgm.php:2388
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: inc/tgm.php:2391
+msgid "Pre-Packaged"
+msgstr "Предварительно Упакованные"
+
+#: inc/tgm.php:2408
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: inc/tgm.php:2412
+msgid "Installed But Not Activated"
+msgstr "Установлен Но Не Активирован"
+
+#: inc/tgm.php:2414
+msgid "Active"
+msgstr "Активирован"
+
+#: inc/tgm.php:2420
+msgid "Required Update not Available"
+msgstr "Требуемое обновление недоступно"
+
+#: inc/tgm.php:2423
+msgid "Requires Update"
+msgstr "Требуемое обновление"
+
+#: inc/tgm.php:2426
+msgid "Update recommended"
+msgstr "Рекомендуемое обновление"
+
+#: inc/tgm.php:2435
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgm.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/tgm.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/tgm.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Чтобы активировать <span class= \"count\">(%s)< / span>"
+msgstr[1] "Чтобы активировать <span class= \"count\">(%s)< / span>"
+msgstr[2] "Чтобы активировать <span class= \"count\">(%s)< / span>"
+
+#: inc/tgm.php:2575
+msgid "unknown"
+msgstr "неизвестный"
+
+#: inc/tgm.php:2583
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#: inc/tgm.php:2591
+msgid "Minimum required version:"
+msgstr "Минимальная требуемая версия:"
+
+#: inc/tgm.php:2603
+msgid "Available version:"
+msgstr "Имеющиеся версии:"
+
+#: inc/tgm.php:2626
+msgid "No plugins to install, update or activate."
+msgstr "Никаких плагинов для установки, обновления или активации."
+
+#: inc/tgm.php:2640
+msgid "Plugin"
+msgstr "Плагин"
+
+#: inc/tgm.php:2641
+msgid "Source"
+msgstr "Ресурс"
+
+#: inc/tgm.php:2642
+msgid "Type"
+msgstr "Тип"
+
+#: inc/tgm.php:2646
+msgid "Version"
+msgstr "Версия"
+
+#: inc/tgm.php:2647
+msgid "Status"
+msgstr "Статус"
+
+#: inc/tgm.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr "Установка %2$s"
+
+#: inc/tgm.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr "Обновление %2$s"
+
+#: inc/tgm.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr "Активация %2$s"
+
+#: inc/tgm.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение об обновлении от автора плагина:"
+
+#: inc/tgm.php:2810
+msgid "Install"
+msgstr "Устанавливать"
+
+#: inc/tgm.php:2816
+msgid "Update"
+msgstr "Обновление"
+
+#: inc/tgm.php:2819
+msgid "Activate"
+msgstr "Активировать"
+
+#: inc/tgm.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Никакие плагины не были выбраны для установки. Никаких действий не "
+"предпринималось."
+
+#: inc/tgm.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Никакие плагины не были выбраны для обновления. Никаких действий не "
+"предпринималось."
+
+#: inc/tgm.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr "В настоящее время никакие плагины не доступны для установки."
+
+#: inc/tgm.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr "В настоящее время никакие плагины не доступны для обновления."
+
+#: inc/tgm.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"Никакие плагины не были выбраны для активации. Никаких действий не "
+"предпринималось."
+
+#: inc/tgm.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr "В настоящее время никакие плагины не доступны для активации."
+
+#: inc/tgm.php:3251
+msgid "Plugin activation failed."
+msgstr "Не удалось активировать плагин."
+
+#: inc/tgm.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#: inc/tgm.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Произошла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#: inc/tgm.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась."
+
+#: inc/tgm.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Начинается процесс установки и активации. Этот процесс может занять "
+"некоторое время на некоторых хостах, поэтому, пожалуйста, будьте терпеливы."
+
+#: inc/tgm.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s успешно установлен и активирован."
+
+#: inc/tgm.php:3602 inc/tgm.php:3610
+msgid "Show Details"
+msgstr "Показать Детали"
+
+#: inc/tgm.php:3602 inc/tgm.php:3610
+msgid "Hide Details"
+msgstr "Скрыть Детали"
+
+#: inc/tgm.php:3603
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации были завершены."
+
+#: inc/tgm.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: inc/tgm.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Начинается процесс установки. Этот процесс может занять некоторое время на "
+"некоторых хостах, поэтому, пожалуйста, будьте терпеливы."
+
+#: inc/tgm.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s установлен успешно."
+
+#: inc/tgm.php:3611
+msgid "All installations have been completed."
+msgstr "Все установки были завершены."
+
+#: inc/tgm.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего Не Найдено"
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Готовы опубликовать свой первый пост? <a href= \"%1$s \" >начните здесь</a>."
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Извините, но ничто не соответствует вашим поисковым запросам. Пожалуйста, "
+"попробуйте еще раз с некоторыми другими ключевыми словами."
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Кажется, мы можем и rsquo;Т найти то, что вы и rsquo;повторно ищет. "
+"Возможно, поиск может помочь."
+
+#: template-parts/content-page.php:24 template-parts/content.php:50
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/content.php:39
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Продолжить чтение<span класс=\"экран-читатель-текст\"> \"%s\"</span>"
+
+#~ msgid "Documentation"
+#~ msgstr "Документация"
+
+#~ msgid "Support"
+#~ msgstr "Поддержка"

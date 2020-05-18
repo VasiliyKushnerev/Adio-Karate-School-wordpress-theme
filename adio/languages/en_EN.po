@@ -1,0 +1,1357 @@
+# Copyright (C) 2017 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Adio 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2020-05-12 01:10+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-05-18 12:59+0300\n"
+"Language-Team: Vasiliy\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;_x;_n:1,2;esc_attr__;"
+"esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_EN\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:47
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:47
+msgid "Main menu"
+msgstr ""
+
+#: functions.php:112
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:114
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/config.php:13
+msgid "Homepage Options"
+msgstr ""
+
+#: inc/config.php:21
+msgid "Enable Offer section"
+msgstr ""
+
+#: inc/config.php:22
+msgid "Enable or disable the Offer section"
+msgstr ""
+
+#: inc/config.php:27 inc/config.php:37 inc/config.php:47 inc/config.php:57
+#: inc/config.php:67 inc/config.php:77 inc/config.php:87 inc/config.php:97
+msgid "Enable"
+msgstr ""
+
+#: inc/config.php:28 inc/config.php:38 inc/config.php:48 inc/config.php:58
+#: inc/config.php:68 inc/config.php:78 inc/config.php:88 inc/config.php:98
+msgid "Disable"
+msgstr ""
+
+#: inc/config.php:31
+msgid "Enable Features section"
+msgstr ""
+
+#: inc/config.php:32
+msgid "Enable or disable the Features section"
+msgstr ""
+
+#: inc/config.php:41
+msgid "Enable Price section"
+msgstr ""
+
+#: inc/config.php:42
+msgid "Enable or disable the Price section"
+msgstr ""
+
+#: inc/config.php:51
+msgid "Enable Classes section"
+msgstr ""
+
+#: inc/config.php:52
+msgid "Enable or disable the Classes section"
+msgstr ""
+
+#: inc/config.php:61
+msgid "Enable Trainers section"
+msgstr ""
+
+#: inc/config.php:62
+msgid "Enable or disable the Trainers section"
+msgstr ""
+
+#: inc/config.php:71
+msgid "Enable Clients section"
+msgstr ""
+
+#: inc/config.php:72
+msgid "Enable or disable the Clients section"
+msgstr ""
+
+#: inc/config.php:81
+msgid "Enable News section"
+msgstr ""
+
+#: inc/config.php:82
+msgid "Enable or disable the News section"
+msgstr ""
+
+#: inc/config.php:91
+msgid "Enable Map section"
+msgstr ""
+
+#: inc/config.php:92
+msgid "Enable or disable the Map section"
+msgstr ""
+
+#: inc/config.php:101
+msgid "Philosophy title"
+msgstr ""
+
+#: inc/config.php:102
+msgid "Type here the Philosophy title"
+msgstr ""
+
+#: inc/config.php:107
+msgid "Philosophy subtitle"
+msgstr ""
+
+#: inc/config.php:108
+msgid "Type here the Philosophy subtitle"
+msgstr ""
+
+#: inc/config.php:113
+msgid "Philosophy description"
+msgstr ""
+
+#: inc/config.php:114
+msgid "Type here the Philosophy description"
+msgstr ""
+
+#: inc/config.php:119
+msgid "Philosophy small title-1"
+msgstr ""
+
+#: inc/config.php:120
+msgid "Type here the Philosophy small title-1"
+msgstr ""
+
+#: inc/config.php:125
+msgid "Philosophy small description-1"
+msgstr ""
+
+#: inc/config.php:126
+msgid "Type here the Philosophy small description-1"
+msgstr ""
+
+#: inc/config.php:131
+msgid "Philosophy small title-2"
+msgstr ""
+
+#: inc/config.php:132
+msgid "Type here the Philosophy small title-2"
+msgstr ""
+
+#: inc/config.php:137
+msgid "Philosophy small description-2"
+msgstr ""
+
+#: inc/config.php:138
+msgid "Type here the Philosophy small description-2"
+msgstr ""
+
+#: inc/config.php:143
+msgid "Philosophy small title-3"
+msgstr ""
+
+#: inc/config.php:144
+msgid "Type here the Philosophy small title-3"
+msgstr ""
+
+#: inc/config.php:149
+msgid "Philosophy small description-3"
+msgstr ""
+
+#: inc/config.php:150
+msgid "Type here the Philosophy small description-3"
+msgstr ""
+
+#: inc/config.php:155
+msgid "Philosophy image"
+msgstr ""
+
+#: inc/config.php:156
+msgid "Upload here the Philosophy image. Recommended size: 507-467px"
+msgstr ""
+
+#: inc/config.php:161
+msgid "Offer image"
+msgstr ""
+
+#: inc/config.php:162
+msgid "Upload here the Offer image. Recommended size: 535-480px"
+msgstr ""
+
+#: inc/config.php:167
+msgid "Offer overtitle"
+msgstr ""
+
+#: inc/config.php:168
+msgid "Type here the Offer overtitle"
+msgstr ""
+
+#: inc/config.php:173
+msgid "Offer title"
+msgstr ""
+
+#: inc/config.php:174
+msgid "Type here the Offer title"
+msgstr ""
+
+#: inc/config.php:179
+msgid "Offer subtitle"
+msgstr ""
+
+#: inc/config.php:180
+msgid "Type here the Offer subrtitle"
+msgstr ""
+
+#: inc/config.php:185
+msgid "Offer description"
+msgstr ""
+
+#: inc/config.php:186
+msgid "Type here the Offer description"
+msgstr ""
+
+#: inc/config.php:191
+msgid "Offer button title"
+msgstr ""
+
+#: inc/config.php:192
+msgid "Type here the Offer button title"
+msgstr ""
+
+#: inc/config.php:197
+msgid "Features title"
+msgstr ""
+
+#: inc/config.php:198
+msgid "Type here the Features title"
+msgstr ""
+
+#: inc/config.php:203
+msgid "Classes title"
+msgstr ""
+
+#: inc/config.php:204
+msgid "Type here the Classes title"
+msgstr ""
+
+#: inc/config.php:209
+msgid "Trainers title"
+msgstr ""
+
+#: inc/config.php:210
+msgid "Type here the Trainers title"
+msgstr ""
+
+#: inc/config.php:215
+msgid "Client title"
+msgstr ""
+
+#: inc/config.php:216
+msgid "Type here the Client title"
+msgstr ""
+
+#: inc/config.php:221
+msgid "Testimonial background image"
+msgstr ""
+
+#: inc/config.php:222
+msgid ""
+"Upload here the Testimonial background image. Recommended size: 1880-955px"
+msgstr ""
+
+#: inc/config.php:227
+msgid "News title"
+msgstr ""
+
+#: inc/config.php:228
+msgid "Type here the News title"
+msgstr ""
+
+#: inc/config.php:234
+msgid "Iframe Map"
+msgstr ""
+
+#: inc/config.php:235
+msgid "Type here the Map Iframe.Width=\"100%\", height=\"800\""
+msgstr ""
+
+#: inc/config.php:244 inc/config.php:273
+msgid "Features Options"
+msgstr ""
+
+#: inc/config.php:251 inc/config.php:280
+msgid "Features icon"
+msgstr ""
+
+#: inc/config.php:252 inc/config.php:281
+msgid "Type here the fontawesome icon name"
+msgstr ""
+
+#: inc/config.php:257 inc/config.php:286
+msgid "Features subtitle"
+msgstr ""
+
+#: inc/config.php:258 inc/config.php:287
+msgid "Type here the Features subtitle"
+msgstr ""
+
+#: inc/config.php:263 inc/config.php:292
+msgid "Features description"
+msgstr ""
+
+#: inc/config.php:264 inc/config.php:293
+msgid "Type here the Features description"
+msgstr ""
+
+#: inc/config.php:302
+msgid "Price Options"
+msgstr ""
+
+#: inc/config.php:309
+msgid "Price title"
+msgstr ""
+
+#: inc/config.php:310
+msgid "Type here the Price titile"
+msgstr ""
+
+#: inc/config.php:315
+msgid "Price value"
+msgstr ""
+
+#: inc/config.php:316
+msgid "Type here the Price value"
+msgstr ""
+
+#: inc/config.php:321
+msgid "Price description"
+msgstr ""
+
+#: inc/config.php:322
+msgid "Type here the Price description"
+msgstr ""
+
+#: inc/config.php:327
+msgid "Price button title"
+msgstr ""
+
+#: inc/config.php:328
+msgid "Type here the Price button title"
+msgstr ""
+
+#: inc/config.php:337
+msgid "Classes Options"
+msgstr ""
+
+#: inc/config.php:344
+msgid "Classes image"
+msgstr ""
+
+#: inc/config.php:345
+msgid "Upload here the Classes image. Recommended size: 355-487px"
+msgstr ""
+
+#: inc/config.php:350
+msgid "Classes subtitle"
+msgstr ""
+
+#: inc/config.php:351
+msgid "Type here the Classes subtitle"
+msgstr ""
+
+#: inc/config.php:356
+msgid "Classes description"
+msgstr ""
+
+#: inc/config.php:357
+msgid "Type here the Classes description"
+msgstr ""
+
+#: inc/config.php:366
+msgid "Trainers Options"
+msgstr ""
+
+#: inc/config.php:373
+msgid "Trainers image"
+msgstr ""
+
+#: inc/config.php:374
+msgid "Upload here the Trainers image. Recommended size: 277-472px"
+msgstr ""
+
+#: inc/config.php:379
+msgid "Trainer header"
+msgstr ""
+
+#: inc/config.php:380
+msgid "Type here the Trainer header"
+msgstr ""
+
+#: inc/config.php:385
+msgid "Trainer subtitle"
+msgstr ""
+
+#: inc/config.php:386
+msgid "Type here the Trainer subtitle"
+msgstr ""
+
+#: inc/config.php:391
+msgid "Trainer description"
+msgstr ""
+
+#: inc/config.php:392
+msgid "Type here the Trainer description"
+msgstr ""
+
+#: inc/config.php:397
+msgid "Facebook link Profile"
+msgstr ""
+
+#: inc/config.php:398 inc/config.php:404 inc/config.php:410
+msgid "Type here the Trainer profile link"
+msgstr ""
+
+#: inc/config.php:403
+msgid "Twitter link Profile"
+msgstr ""
+
+#: inc/config.php:409
+msgid "Pinterest link Profile"
+msgstr ""
+
+#: inc/config.php:419
+msgid "Testimonials Options"
+msgstr ""
+
+#: inc/config.php:426
+msgid "Client image"
+msgstr ""
+
+#: inc/config.php:427
+msgid "Upload here the Client image. Recommended size: 157-157px"
+msgstr ""
+
+#: inc/config.php:432
+msgid "Client name"
+msgstr ""
+
+#: inc/config.php:433
+msgid "Type here the Client name"
+msgstr ""
+
+#: inc/config.php:438
+msgid "Testimonials description"
+msgstr ""
+
+#: inc/config.php:439
+msgid "Type here the Testimonials description"
+msgstr ""
+
+#: inc/config.php:457
+msgid "Features Left"
+msgstr ""
+
+#: inc/config.php:458
+msgid "Feature Left"
+msgstr ""
+
+#: inc/config.php:472
+msgid "Features Right"
+msgstr ""
+
+#: inc/config.php:473
+msgid "Feature Right"
+msgstr ""
+
+#: inc/config.php:487
+msgid "Prices"
+msgstr ""
+
+#: inc/config.php:488
+msgid "Price"
+msgstr ""
+
+#: inc/config.php:502
+msgid "Classes"
+msgstr ""
+
+#: inc/config.php:503
+msgid "Class"
+msgstr ""
+
+#: inc/config.php:518
+msgid "Trainers"
+msgstr ""
+
+#: inc/config.php:519
+msgid "Trainer"
+msgstr ""
+
+#: inc/config.php:534
+msgid "Testimonials"
+msgstr ""
+
+#: inc/config.php:535
+msgid "Testimonial"
+msgstr ""
+
+#: inc/redux-options.php:76 inc/redux-options.php:77
+msgid "ADIO Options"
+msgstr ""
+
+#: inc/redux-options.php:177
+msgid "Documentation"
+msgstr ""
+
+#: inc/redux-options.php:183
+msgid "Support"
+msgstr ""
+
+#: inc/redux-options.php:209
+#, php-format
+msgid ""
+"<p>Did you know that Redux sets a global variable for you? To access any of "
+"your saved options from within your code you can use your global variable: "
+"<strong>$%1$s</strong></p>"
+msgstr ""
+
+#: inc/redux-options.php:211
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: inc/redux-options.php:215
+msgid ""
+"<p>This text is displayed below the options panel. It isn't required, but "
+"more info is always better! The footer_text field accepts all HTML.</p>"
+msgstr ""
+
+#: inc/redux-options.php:231
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/redux-options.php:232 inc/redux-options.php:237
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/redux-options.php:236
+msgid "Theme Information 2"
+msgstr ""
+
+#: inc/redux-options.php:243
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/redux-options.php:267
+msgid "Header Options"
+msgstr ""
+
+#: inc/redux-options.php:269
+msgid "Data to be display in Header"
+msgstr ""
+
+#: inc/redux-options.php:274
+msgid "Logo Data"
+msgstr ""
+
+#: inc/redux-options.php:275
+msgid "Upload the logo and specify the slogan"
+msgstr ""
+
+#: inc/redux-options.php:283
+msgid "Logo"
+msgstr ""
+
+#: inc/redux-options.php:284
+msgid "Upload here your logo"
+msgstr ""
+
+#: inc/redux-options.php:285
+msgid "Recomended size: 73px * 108px"
+msgstr ""
+
+#: inc/redux-options.php:291
+msgid "Slogan"
+msgstr ""
+
+#: inc/redux-options.php:292
+msgid "Type here your slogan"
+msgstr ""
+
+#: inc/redux-options.php:293
+msgid "Your slogan"
+msgstr ""
+
+#: inc/redux-options.php:301
+msgid "Phone & E-mail info"
+msgstr ""
+
+#: inc/redux-options.php:302
+msgid "Type here Phone and E-mail info"
+msgstr ""
+
+#: inc/redux-options.php:311
+msgid "Phone info"
+msgstr ""
+
+#: inc/redux-options.php:312
+msgid "Type here your phone company"
+msgstr ""
+
+#: inc/redux-options.php:313
+msgid "Your phone company"
+msgstr ""
+
+#: inc/redux-options.php:319
+msgid "Email info"
+msgstr ""
+
+#: inc/redux-options.php:320
+msgid "Type here your email company"
+msgstr ""
+
+#: inc/redux-options.php:321
+msgid "Your email company"
+msgstr ""
+
+#: inc/redux-options.php:327
+msgid "Social Links (Header & Footer)"
+msgstr ""
+
+#: inc/redux-options.php:328
+msgid "Type here social links"
+msgstr ""
+
+#: inc/redux-options.php:337
+msgid "Facebook Link"
+msgstr ""
+
+#: inc/redux-options.php:338 inc/redux-options.php:346
+#: inc/redux-options.php:354 inc/redux-options.php:362
+msgid "Type here your link"
+msgstr ""
+
+#: inc/redux-options.php:339 inc/redux-options.php:347
+#: inc/redux-options.php:355 inc/redux-options.php:363
+msgid "Your Profile Link"
+msgstr ""
+
+#: inc/redux-options.php:345
+msgid "Twitter Link"
+msgstr ""
+
+#: inc/redux-options.php:353
+msgid "Intagram Link"
+msgstr ""
+
+#: inc/redux-options.php:361
+msgid "Pinterest Link"
+msgstr ""
+
+#: inc/redux-options.php:369
+msgid "Headers"
+msgstr ""
+
+#: inc/redux-options.php:370
+msgid "Enter the headers here"
+msgstr ""
+
+#: inc/redux-options.php:378
+msgid "Background image"
+msgstr ""
+
+#: inc/redux-options.php:379
+msgid "Upload here your background image"
+msgstr ""
+
+#: inc/redux-options.php:380
+msgid "Recomended size: 1880px * 955px"
+msgstr ""
+
+#: inc/redux-options.php:386
+msgid "Header"
+msgstr ""
+
+#: inc/redux-options.php:387
+msgid "Type here your header"
+msgstr ""
+
+#: inc/redux-options.php:388
+msgid "Your header"
+msgstr ""
+
+#: inc/redux-options.php:394
+msgid "Opening words"
+msgstr ""
+
+#: inc/redux-options.php:395
+msgid "Type here your opening words"
+msgstr ""
+
+#: inc/redux-options.php:396
+msgid "Your opening words"
+msgstr ""
+
+#: inc/redux-options.php:402
+msgid "First Subtitle"
+msgstr ""
+
+#: inc/redux-options.php:403
+msgid "Type here your first subtitle"
+msgstr ""
+
+#: inc/redux-options.php:404
+msgid "Your first subtitle"
+msgstr ""
+
+#: inc/redux-options.php:410
+msgid "Second Subtitle"
+msgstr ""
+
+#: inc/redux-options.php:411
+msgid "Type here your second subtitle"
+msgstr ""
+
+#: inc/redux-options.php:412
+msgid "Your second subtitle"
+msgstr ""
+
+#: inc/redux-options.php:418
+msgid "Button title"
+msgstr ""
+
+#: inc/redux-options.php:419
+msgid "Type here your button title"
+msgstr ""
+
+#: inc/redux-options.php:420
+msgid "Your button title"
+msgstr ""
+
+#: inc/redux-options.php:426
+msgid "Switch On the Button"
+msgstr ""
+
+#: inc/redux-options.php:427
+msgid "Enable or disable the button"
+msgstr ""
+
+#: inc/redux-options.php:433
+msgid "Footer Options"
+msgstr ""
+
+#: inc/redux-options.php:435
+msgid "Data to be display in Footer"
+msgstr ""
+
+#: inc/redux-options.php:440
+msgid "First section"
+msgstr ""
+
+#: inc/redux-options.php:441
+msgid "Upload data for the first section"
+msgstr ""
+
+#: inc/redux-options.php:449
+msgid "Footer logo"
+msgstr ""
+
+#: inc/redux-options.php:450
+msgid "Upload here your logo for footer"
+msgstr ""
+
+#: inc/redux-options.php:451
+msgid "Recomended size: 103px * 104px"
+msgstr ""
+
+#: inc/redux-options.php:457 inc/redux-options.php:484
+#: inc/redux-options.php:501 inc/redux-options.php:518
+msgid "Title"
+msgstr ""
+
+#: inc/redux-options.php:458 inc/redux-options.php:485
+#: inc/redux-options.php:502 inc/redux-options.php:519
+msgid "Type here your title"
+msgstr ""
+
+#: inc/redux-options.php:459 inc/redux-options.php:486
+#: inc/redux-options.php:503 inc/redux-options.php:520
+msgid "Your title"
+msgstr ""
+
+#: inc/redux-options.php:465
+msgid "Description"
+msgstr ""
+
+#: inc/redux-options.php:466
+msgid "Type here your description"
+msgstr ""
+
+#: inc/redux-options.php:467
+msgid "Your description"
+msgstr ""
+
+#: inc/redux-options.php:475
+msgid "Second section"
+msgstr ""
+
+#: inc/redux-options.php:476
+msgid "Upload data for the second section"
+msgstr ""
+
+#: inc/redux-options.php:492
+msgid "Third section"
+msgstr ""
+
+#: inc/redux-options.php:493
+msgid "Upload data for the third section"
+msgstr ""
+
+#: inc/redux-options.php:509
+msgid "Fourth section"
+msgstr ""
+
+#: inc/redux-options.php:510
+msgid "Upload data for the fourth section"
+msgstr ""
+
+#: inc/redux-options.php:525
+msgid "Phone-1"
+msgstr ""
+
+#: inc/redux-options.php:526
+msgid "Type here your phone-1"
+msgstr ""
+
+#: inc/redux-options.php:527 inc/redux-options.php:534
+msgid "Your phone"
+msgstr ""
+
+#: inc/redux-options.php:532
+msgid "Phone-2"
+msgstr ""
+
+#: inc/redux-options.php:533
+msgid "Type here your phone-2"
+msgstr ""
+
+#: inc/redux-options.php:539
+msgid "Address"
+msgstr ""
+
+#: inc/redux-options.php:540
+msgid "Type here your address"
+msgstr ""
+
+#: inc/redux-options.php:541
+msgid "Your addess"
+msgstr ""
+
+#: inc/redux-options.php:546
+msgid "Copyright info"
+msgstr ""
+
+#: inc/redux-options.php:547
+msgid "Type here your copyright info"
+msgstr ""
+
+#: inc/redux-options.php:548
+msgid "Your copyright info"
+msgstr ""
+
+#: inc/redux-options.php:554
+msgid "Color Selection"
+msgstr ""
+
+#: inc/redux-options.php:556
+msgid "Data to be display of Color"
+msgstr ""
+
+#: inc/redux-options.php:561
+msgid "Color"
+msgstr ""
+
+#: inc/redux-options.php:563
+msgid "Here you can choose the site's color scheme."
+msgstr ""
+
+#: inc/redux-options.php:573
+msgid "Site Background Color"
+msgstr ""
+
+#: inc/redux-options.php:574
+msgid "Select the background color of the site."
+msgstr ""
+
+#: inc/redux-options.php:587
+msgid "Site Text Color"
+msgstr ""
+
+#: inc/redux-options.php:588
+msgid "Select the text color of the site."
+msgstr ""
+
+#: inc/redux-options.php:595
+msgid "Color of the side menu buttons."
+msgstr ""
+
+#: inc/redux-options.php:596
+msgid "Select the color of the side menu buttons."
+msgstr ""
+
+#: inc/redux-options.php:2662
+msgid "Section via hook"
+msgstr ""
+
+#: inc/redux-options.php:2663
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:65
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:72
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:82
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:99 template-parts/content-page.php:37
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/tgm.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm.php:393 inc/tgm.php:920 inc/tgm.php:2626 inc/tgm.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm.php:394 inc/tgm.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm.php:395 inc/tgm.php:3045
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgm.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgm.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/tgm.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgm.php:1027 inc/tgm.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgm.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm.php:2366
+msgid "Required"
+msgstr ""
+
+#: inc/tgm.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm.php:2388
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm.php:2414
+msgid "Active"
+msgstr ""
+
+#: inc/tgm.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm.php:2435
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgm.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm.php:2575
+msgid "unknown"
+msgstr ""
+
+#: inc/tgm.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm.php:2641
+msgid "Source"
+msgstr ""
+
+#: inc/tgm.php:2642
+msgid "Type"
+msgstr ""
+
+#: inc/tgm.php:2646
+msgid "Version"
+msgstr ""
+
+#: inc/tgm.php:2647
+msgid "Status"
+msgstr ""
+
+#: inc/tgm.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgm.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgm.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm.php:2810
+msgid "Install"
+msgstr ""
+
+#: inc/tgm.php:2816
+msgid "Update"
+msgstr ""
+
+#: inc/tgm.php:2819
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgm.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgm.php:3602 inc/tgm.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgm.php:3602 inc/tgm.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgm.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgm.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:24 template-parts/content.php:50
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:39
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
